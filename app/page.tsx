@@ -43,7 +43,7 @@ export default function AuthenticationPage() {
             <div className="my-5 text-lg font-bold">
               “We also book game drives, and other exciting activities and sell
               the Wild Card, which gives free daily entrance to national and
-              selected regional parks.”
+              selected regional parks”
             </div>
             <div className="text-sm font-bold lg:text-xl">
               Contact Information:
