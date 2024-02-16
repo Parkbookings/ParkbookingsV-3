@@ -148,12 +148,8 @@ export const info = [
     camps: ["WEST COAST"],
   },
   {
-    park: "BAKGATLA RESORT",
-    camps: ["BAKGATLA RESORT"],
-  },
-  {
-    park: "MANYANE RESORT",
-    camps: ["MANYANE RESORT"],
+    park: "PILANESBERG NATIONAL PARK",
+    camps: ["BAKGATLA RESORT", "MANYANE RESORT"],
   },
 ]
 
