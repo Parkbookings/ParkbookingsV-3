@@ -147,6 +147,14 @@ export const info = [
     park: "WEST COAST NATIONAL PARK",
     camps: ["WEST COAST"],
   },
+  {
+    park: "BAKGATLA RESORT",
+    camps: ["BAKGATLA RESORT"],
+  },
+  {
+    park: "MANYANE RESORT",
+    camps: ["MANYANE RESORT"],
+  },
 ]
 
 export const parkData = info.map((item) => {
