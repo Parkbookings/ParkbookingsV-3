@@ -41,7 +41,8 @@ export default function AuthenticationPage() {
 
           <div className="relative z-20 mt-auto">
             <div className="my-5 text-lg font-bold">
-              “ParkBookings.com is an appointed sales agent for South African National Parks as well as Golden Leopard Resorts. ParkBookings.com taking the hassle out of park bookings.”
+              “ParkBookings.com is an appointed sales agent for South African National Parks as well as Golden Leopard Resorts. 
+              ParkBookings.com taking the hassle out of park bookings.”
             </div>
             <div className="text-sm font-bold lg:text-xl">
               Contact Information:
