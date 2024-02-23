@@ -32,6 +32,22 @@ export default function AuthenticationPage() {
 
             <div className="flex">
               <img
+                src="/glrb-logo.png"
+                alt=""
+                className="h-auto w-24 object-contain lg:w-36"
+              />
+            </div>
+
+            <div className="flex">
+              <img
+                src="/glrm-logo.png"
+                alt=""
+                className="h-auto w-24 object-contain lg:w-36"
+              />
+            </div>
+
+            <div className="flex">
+              <img
                 src="/logo.jpg"
                 alt=""
                 className="h-auto w-24 object-contain lg:w-36"
