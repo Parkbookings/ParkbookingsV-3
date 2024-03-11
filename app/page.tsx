@@ -18,7 +18,7 @@ export default function AuthenticationPage() {
           <div
             className="absolute inset-0 bg-cover bg-center brightness-75"
             style={{
-              backgroundImage: "url(/bgNew.jpeg)",
+              backgroundImage: "url(/image007.png)",
             }}
           />
           <div className="relative z-20 mt-10 flex w-full items-center justify-between text-lg font-medium">
