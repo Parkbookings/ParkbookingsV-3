@@ -88,7 +88,7 @@ Our platform specializes in taking the hassle out of park bookings, ensuring a s
                 href="https://goo.gl/maps/jr8TNo7tLPS5MLYW8"
                 className="text-xs lg:text-sm"
               >
-                Ground Floor, Block B, Monte Circle Business Park, 178
+                Monte Circle Business Park, 178
                 Montecasino Blvd, Fourways, Sandton, 2191.
               </a>
             </div>
